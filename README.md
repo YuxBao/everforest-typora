@@ -64,3 +64,7 @@
 ## 📜 License
 
 [Apache 2.0](./LICENSE)
+
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=YuxBao/everforest-typora&type=date&legend=top-left)](https://www.star-history.com/#YuxBao/everforest-typora&type=date&legend=top-left)
